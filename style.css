@@ -1,0 +1,39 @@
+header h1{
+  color: #E89551;
+}
+
+#experience{
+  border: 1px dotted fuchsia;
+  background color: red;
+
+}
+
+#experience li{
+  list-style-position: none;
+  font font-size: 18px;
+  border-radius: 15px;
+  margin-top: 40px;
+
+}
+
+#about-me {
+  background-color: black;
+  border: 2px dashed;
+
+}
+
+#about-me p{
+  font-size: 20px;
+  font-family: verdana;
+
+}
+
+#about-me p span{
+  color: blue;
+
+}
+
+#about-me p span:hover {
+  font-size: 30
+  
+}
